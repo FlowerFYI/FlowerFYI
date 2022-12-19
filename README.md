@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my blog for updates: [FlowerFYI on GitHub Pages](https://www.flower.fyi)
+
 <!--
 **FlowerFYI/FlowerFYI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
